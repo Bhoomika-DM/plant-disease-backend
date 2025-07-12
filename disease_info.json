@@ -1,0 +1,58 @@
+{
+  "Tomato__Tomato_YellowLeaf__Curl_Virus": {
+    "description": "A viral disease causing upward curling and yellowing of leaves, stunting plant growth.",
+    "care": "Remove infected plants immediately, use virus-free seeds, and control whitefly populations."
+  },
+  "Tomato_Leaf_Mold": {
+    "description": "Fungal disease seen as yellow patches on upper leaf surfaces and mold on undersides.",
+    "care": "Ensure proper spacing, use resistant varieties, and apply organic or chemical fungicides."
+  },
+  "Tomato_Bacterial_spot": {
+    "description": "Small dark water-soaked lesions on leaves, stems, and fruit caused by bacteria.",
+    "care": "Use copper sprays, remove infected parts, and ensure good drainage and air flow."
+  },
+  "Tomato_Early_blight": {
+    "description": "Fungal disease causing concentric ring spots on lower leaves.",
+    "care": "Rotate crops, remove old plant debris, and use fungicide treatments during early symptoms."
+  },
+  "Tomato_Late_blight": {
+    "description": "Aggressive fungus causing dark, wet lesions on leaves and stems, rapid plant death.",
+    "care": "Destroy affected plants, avoid overhead watering, and apply preventive fungicides early."
+  },
+  "Tomato_Septoria_leaf_spot": {
+    "description": "Gray circular spots with dark borders on leaves, usually starting from the bottom.",
+    "care": "Avoid overhead watering, prune lower leaves, and use fungicides like chlorothalonil."
+  },
+  "Tomato__Target_Spot": {
+    "description": "Spots with concentric rings appear on leaves, often mistaken for early blight.",
+    "care": "Apply fungicides, remove weeds, and maintain crop rotation."
+  },
+  "Tomato_Spider_mites_Two_spotted_spider_mite": {
+    "description": "Tiny pests creating webbing and yellow stippling on leaves.",
+    "care": "Use miticides or neem oil, increase humidity, and introduce predatory mites."
+  },
+  "Tomato__Tomato_mosaic_virus": {
+    "description": "Virus causing mottling, distortion, and stunted growth.",
+    "care": "Destroy infected plants, disinfect tools, and control aphid or thrip populations."
+  },
+  "Tomato__healthy": {
+    "description": "The plant is healthy with no visible symptoms of disease.",
+    "care": "Maintain regular watering, balanced fertilization, and monitor for early signs of disease."
+  },
+  "Pepper__bell___Bacterial_spot": {
+    "description": "Spots on leaves and fruits, reducing yield and marketability.",
+    "care": "Plant resistant varieties, rotate crops, and avoid working with wet plants."
+  },
+  "Potato___Early_blight": {
+    "description": "Concentric rings on older leaves, eventually leading to yellowing and drop.",
+    "care": "Apply fungicides and ensure proper nutrient supply and irrigation."
+  },
+  "Potato___Late_blight": {
+    "description": "Dark brown spots on leaves and stems with white fungal growth underneath.",
+    "care": "Use resistant varieties, apply fungicides, and remove infected plants quickly."
+  },
+  "Potato___healthy": {
+    "description": "No symptoms of disease or pest infestation. Green, vibrant leaves and strong stems.",
+    "care": "Maintain balanced soil nutrition, rotate crops, and inspect regularly for any abnormalities."
+  }
+} 
